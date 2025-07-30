@@ -1,4 +1,4 @@
-Python tool to model user interactions for website performance testing. This tool is FOR PERFOMANCE TESTS ONLY, I DO NOT ENCOURAGE NOR CLAIM RESPONSIBILITY FOR ANY OTHER USAGE.
+Python tool to model user interactions for website performance testing. This tool is FOR PERFOMANCE/ACTIVITY TESTS ONLY, I DO NOT ENCOURAGE NOR CLAIM RESPONSIBILITY FOR ANY OTHER USAGE.
 
 Visits a site under scaped ip proxy confirmed either in CA or US and models user interactions based on a list of partial <a href></a> tag contents. Running the batch file will model sporadic interaction (due to general reliablity of proxy servers) 20-50 times (visit-to-click)
 
