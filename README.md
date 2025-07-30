@@ -11,3 +11,6 @@ Props to TheSpeedX's PROXY-List repo for providing the updating proxy lists
 Props to kevinbazira's sleek-web-bot repo for providing an excellent (though outdated) starting point
 
 This is releaced under the MIT licence, and I hold no responsibility over how one might use it. 
+
+
+NOTE: in order to make this work correctly you may need to change the submit_button assignment as the two I have are simply the two most common Wordpress cookie notifications. Alternatively that try except can be removed as my 'click' should bypass most elements 'covering' the link text
