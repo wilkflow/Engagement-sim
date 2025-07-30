@@ -1,4 +1,4 @@
-Python tool to model user interactions for website performance testing. This toold is FOR PERFOMANCE TESTS ONLY, I DO NOT ENCOURAGE NOR CLAIM RESPONSIBILITY FOR ANY OTHER USAGE.
+Python tool to model user interactions for website performance testing. This tool is FOR PERFOMANCE TESTS ONLY, I DO NOT ENCOURAGE NOR CLAIM RESPONSIBILITY FOR ANY OTHER USAGE.
 
 Visits a site under scaped ip proxy confirmed either in CA or US and models user interactions based on a list of partial <a href></a> tag contents
 
